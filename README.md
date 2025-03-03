@@ -1,0 +1,2 @@
+# CrNb4Se8_Trigonal_Distortion
+Cr原子を囲むSe原子が構成する八面体の歪みを計算するプログラム
