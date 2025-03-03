@@ -1,7 +1,7 @@
 import numpy as np
 import os
 import argparse
-from functions_for_TD import convert_fractional_to_cartesian, calculate_distance, calculate_octahedral_distortion
+from CrNb4Se8_functions_for_TD import convert_fractional_to_cartesian, calculate_distance, calculate_octahedral_distortion
 
 def main():
     # argparseを使ってコマンドライン引数を処理
